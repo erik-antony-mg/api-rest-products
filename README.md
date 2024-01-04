@@ -26,8 +26,8 @@ create database: db_products
 ```bash
 create a folder on drive c called images
 ```
-The app will start running at <http://localhost:8085>
-swagger will start running at <http://localhost:8085/doc/swagger-ui/index.html>
+- The app will start running at <http://localhost:8085>
+- swagger will start running at <http://localhost:8085/doc/swagger-ui/index.html>
 
 ### EndPoints
 
