@@ -32,7 +32,7 @@ swagger will start running at <http://localhost:8085/doc/swagger-ui/index.html>
 ### EndPoints
 
 | Method | Url | Description
-| ------ | --- |
+| ------ | --- | ------|
 | GET    | /api/products | Get all products
 | GET    |  /api/products{idProduct} | find by product id
 | POST    | /api/products/create | Create product
