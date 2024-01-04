@@ -1,5 +1,5 @@
 # API-REST-PRODUCTS
-# #Spring Boot 3, MySQL, JPA, Rest API, Swagger
+# #Spring Boot 3, MySQL, JPA, Rest API, Swagger, Maven
 
 Create Restful CRUD API as a practice using Spring Boot, Mysql, JPA and Hibernate.
 
